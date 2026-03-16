@@ -1,3 +1,8 @@
 # site-informativo-saude-mental
-![ludicakids-logo](logo.png.png)
+## LÚDICA KIDS
+<p align = "center">
+  <img src="imagens/logo.png.png" width="400" alt="Tela Inicial
+    </p>
+
+
 
