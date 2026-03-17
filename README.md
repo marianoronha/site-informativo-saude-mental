@@ -6,7 +6,7 @@
 </p>
 
 ## Sobre o Lúdica Kids
-> Brincar para acalmar, aprender para crescer.
+> "Brincar para acalmar, aprender para crescer."
 O **Lúdica Kids** é uma plataforma digital voltada ao desenvolvimento infantil por meio de atividades interativas, educativas e lúdicas. O sistema busca promover o aprendizado de forma leve, divertida e acessível, estimulando habilidades cognitivas, emocionais e sociais das crianças.
 
 ---
