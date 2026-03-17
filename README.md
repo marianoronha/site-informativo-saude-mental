@@ -6,6 +6,7 @@
 </p>
 
 ## Sobre o Lúdica Kids
+> Brincar para acalmar, aprender para crescer
 O **Lúdica Kids** é uma plataforma digital voltada ao desenvolvimento infantil por meio de atividades interativas, educativas e lúdicas. O sistema busca promover o aprendizado de forma leve, divertida e acessível, estimulando habilidades cognitivas, emocionais e sociais das crianças.
 
 ---
@@ -38,15 +39,7 @@ Desenvolver uma plataforma digital interativa que auxilie no aprendizado infanti
 - Facilitar o acompanhamento do desenvolvimento infantil pelos responsáveis  
 - Promover o uso consciente da tecnologia  
 - Desenvolver habilidades como memória, atenção e raciocínio lógico  
-- Criar um ambiente digital seguro e acessível  
-
----
-## Portfólio
-Este projeto faz parte do portfólio acadêmico, demonstrando habilidades em:
-- Desenvolvimento web  
-- Design de interfaces  
-- Experiência do usuário (UX)  
-- Organização e estruturação de projetos  
+- Criar um ambiente digital seguro e acessível
 
 ---
 
@@ -59,7 +52,19 @@ Este projeto faz parte do portfólio acadêmico, demonstrando habilidades em:
 
 ## Autores
 Projeto desenvolvido por alunos da FATEC:
-GIOVANNA MONTORO BARBOSA
-LARA ANTUNES SOARES BRITO
-MARIA APARECIDA BEZERRA DE NORONHA
+- GIOVANNA MONTORO BARBOSA
+- LARA ANTUNES SOARES BRITO
+- MARIA APARECIDA BEZERRA DE NORONHA
+
+---
+## Portfólio
+Este projeto faz parte do portfólio acadêmico, demonstrando habilidades em:
+- Desenvolvimento web  
+- Design de interfaces  
+- Experiência do usuário (UX)  
+- Organização e estruturação de projetos  
+
+---
+
+
 
